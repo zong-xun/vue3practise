@@ -1,0 +1,1 @@
+.tabletr td:first-child,.tabletr td:nth-child(3),th:first-child,th:nth-child(3){max-width:100px;overflow-x:auto}.tabletr td:nth-child(4) div,th:nth-child(4){flex-wrap:wrap}@media(max-width:414px){.tabletr td:nth-child(3),th:nth-child(3){display:none}}
